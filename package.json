@@ -23,6 +23,8 @@
     "typescript": "^2.2.2"
   },
   "devDependencies": {
+    "@types/react": "^15.0.21",
+    "@types/react-dom": "^0.14.23",
     "awesome-typescript-loader": "3.0.4",
     "webpack": "1.14.0"
   }
