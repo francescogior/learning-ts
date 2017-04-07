@@ -18,5 +18,8 @@
   "homepage": "https://github.com/francescogior/learning-ts#readme",
   "dependencies": {
     "typescript": "^2.2.2"
+  },
+  "devDependencies": {
+    "webpack": "1.14.0"
   }
 }
